@@ -1,0 +1,53 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    background-color: black;
+    height: 516px;
+    width: 325px;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+.button{
+    font-size: 20px;
+    width: 66px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0 3px;
+    border-radius:34px;
+    cursor: pointer;
+}
+.color{
+    background-color: rgb(238, 174, 35);
+}
+
+.color1{
+    color: aliceblue;
+    background-color: rgb(19, 18, 18);
+}
+.button1{
+    font-size: 20px;
+    width: 141px;
+    text-align: left;
+    padding: 18px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius:34px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row1{
+    margin: 8px 0;
+}
+.row input{
+    color: aliceblue;
+    background-color: black;
+    width: 291px;
+    font-size: 21px;
+    margin: 0;
+    padding: 20px 0px;
+    border-radius: 22px;
+}
